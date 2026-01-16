@@ -50,15 +50,15 @@ class Home extends BaseController
         return render_page('home/contactus', $this->data);
     }
 
-    public function downloadApplicationForm()
+    public function downloadApplicationForm(): DownloadResponse|RedirectResponse
     {
         $filePath = WRITEPATH . 'uploads/Brook_Besor_University_Undergraduate_Application_Form.docx';
 
         if (file_exists($filePath)) {
             return $this->response->download($filePath, null)->setFileName('CHAZ Brook Besor University Application Form.docx');
         } else {
-            echo $filePath;
-            // return redirect()->back()->with('error', 'The application form is currently unavailable for download.');
+            
+            return redirect()->back()->with('error', 'The application form is currently unavailable for download.');
         }
     }
 }
