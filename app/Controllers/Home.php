@@ -57,7 +57,7 @@ class Home extends BaseController
         if (file_exists($filePath)) {
             return $this->response->download($filePath, null)->setFileName('CHAZ Brook Besor University Application Form.docx');
         } else {
-            echo 'Yes';
+            echo $filePath;
             // return redirect()->back()->with('error', 'The application form is currently unavailable for download.');
         }
     }
