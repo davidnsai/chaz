@@ -67,13 +67,11 @@
                     <div class="social">
                         <h6>Social: </h6>
                         <ul class="social-list">
-                            <li class="wow fadeInUp" data-wow-delay=".2s"><a href="#"><i
+                            <li class="wow fadeInUp" data-wow-delay=".2s"><a href="https://www.facebook.com/share/17vuJ4TKiP/"><i
                                         class="fa-brands fa-facebook-f"></i></a></li>
-                            <li class="wow fadeInUp" data-wow-delay=".4s"><a href="#"><i
-                                        class="fa-brands fa-twitter"></i></a></li>
-                            <li class="wow fadeInUp" data-wow-delay=".6s"><a href="#"><i
+                            <li class="wow fadeInUp" data-wow-delay=".6s"><a href="https://www.instagram.com/chazbbuniversity?igsh=MTNqdms3dnQyemNsNg=="><i
                                         class="fa-brands fa-instagram"></i></a></li>
-                            <li class="wow fadeInUp" data-wow-delay=".8s"><a href="#"><i
+                            <li class="wow fadeInUp" data-wow-delay=".8s"><a href="https://www.linkedin.com/company/chazbrookbesoruniversity"><i
                                         class="fa-brands fa-linkedin-in"></i></a></li>
                         </ul>
                     </div>
@@ -82,7 +80,7 @@
             <div class="col-lg-6">
                 <div class="google-map">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5019.0404729486745!2d28.4286692!3d-15.380318899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x194089a6a4e7dfb3%3A0x66af9c9e928b23c2!2sChurches%20Health%20Association%20of%20Zambia%20(CHAZ)!5e1!3m2!1sen!2szm!4v1768562047717!5m2!1sen!2szm"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5019.0404729486745!2d28.4286692!3d-15.380318899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x194089a6a4e7dfb3%3A0x66af9c9e928b23c2!2sChurches%20Health%20Association%20of%20Zambia%20(CHAZ)!5e0!3m2!1sen!2szm!4v1768562047717!5m2!1sen!2szm"
                         style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>

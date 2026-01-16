@@ -32,6 +32,11 @@
     <link rel="stylesheet" href="/assets/css/color.css">
     <!--<< Main.css >>-->
     <link rel="stylesheet" href="/assets/css/main.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
 </head>
 
 <body class="body-color">
@@ -104,15 +109,14 @@
                             </li>
                         </ul>
                         <div class="header-button mt-4 text-center">
-                            <a href="/contact-us" class="theme-btn">
+                            <a href="/#contact-us" class="theme-btn">
                                 Contact Us <i class="fa-solid fa-arrow-right"></i>
                             </a>
                         </div>
                         <div class="social-icon d-flex align-items-center">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-youtube"></i></a>
-                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.facebook.com/share/17vuJ4TKiP/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/chazbbuniversity?igsh=MTNqdms3dnQyemNsNg=="><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/chazbrookbesoruniversity"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                 </div>
@@ -122,16 +126,21 @@
     <div class="offcanvas__overlay"></div>
 
     <!-- Header Section Start -->
+    <style>
+        .header-1 {
+            background-color: #ffffff !important;
+        }
+    </style>
     <header class="header-1" id="header-sticky">
         <div class="container-fluid">
             <div class="mega-menu-wrapper">
                 <div class="header-main">
                     <div class="logo">
-                        <a href="/" class="header-logo">
+                        <a href="/#" class="header-logo">
                             <img src="/assets/img/logo/logo.png" alt="logo-img" class="logo-responsive" height="100">
                         </a>
                         <div class="logo-2">
-                            <a href="/">
+                            <a href="/#">
                                 <img src="/assets/img/logo/logo.png" alt="" class="logo-responsive" height="100">
                             </a>
                         </div>
@@ -144,10 +153,10 @@
                                         <a href="/">Home</a>
                                     </li>
                                     <li>
-                                        <a href="/whatsapp-community">Whatsapp Community</a>
+                                        <a href="/#whatsapp-community">Whatsapp Community</a>
                                     </li>
                                     <li>
-                                        <a href="/contact-us">Contact Us</a>
+                                        <a href="/#contact-us">Contact Us</a>
                                     </li>
                                 </ul>
                             </nav>
