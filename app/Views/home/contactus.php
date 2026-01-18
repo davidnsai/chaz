@@ -51,7 +51,7 @@
                             </div>
                             <div class="content">
                                 <span>Email</span>
-                                <h6 style="text-transform: lowercase;">chazbrookbesor@gmail.com</h6>
+                                <h6 style="text-transform: lowercase;">admissions@cbbu.ac.zm</h6>
                             </div>
                         </div>
                         <div class="contact-item wow fadeInUp" data-wow-delay=".6s">

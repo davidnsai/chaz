@@ -108,7 +108,7 @@
                         <div class="section-title">
                             <span class="wow fadeInUp"><img src="/assets/img/shape/star-2.png" alt="img">WhatsApp
                                 Community</span>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Connected With <br> <span>CHAZ Brook Besor
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Connect With <br> <span>CHAZ Brook Besor
                                     University
                                 </span></h2>
                             <p class="wow fadeInUp" data-wow-delay=".3s">The CHAZ Brook Besor University WhatsApp
@@ -189,7 +189,7 @@
                             </div>
                             <div class="content">
                                 <span>Email</span>
-                                <h6 style="text-transform: lowercase;">chazbrookbesor@gmail.com</h6>
+                                <h6 style="text-transform: lowercase;">admissions@cbbu.ac.zm</h6>
                             </div>
                         </div>
                         <div class="contact-item wow fadeInUp" data-wow-delay=".6s">
@@ -198,7 +198,7 @@
                             </div>
                             <div class="content">
                                 <span>Address</span>
-                                <h6>CHAZ House, Kalundu, Lusaka</h6>
+                                <h6>CHAZ House, Meanwood, Lusaka</h6>
                             </div>
                         </div>
                     </div>

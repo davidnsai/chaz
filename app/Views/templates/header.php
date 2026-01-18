@@ -79,7 +79,7 @@
                                     <i class="fal fa-map-marker-alt"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a target="_blank" href="#">CHAZ House, Kalundu, Lusaka, Zambia</a>
+                                    <a target="_blank" href="#">CHAZ House, Meanwood, Lusaka, Zambia</a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center">
@@ -87,8 +87,8 @@
                                     <i class="fal fa-envelope"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="mailto:chazbrookbesor@gmail.com"><span
-                                            class="mailto:chazbrookbesor@gmail.com">chazbrookbesor@gmail.com</span></a>
+                                    <a target="_blank" href="mailto:admissions@cbbu.ac.zm"><span
+                                            class="mailto:admissions@cbbu.ac.zm">admissions@cbbu.ac.zm</span></a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center">
